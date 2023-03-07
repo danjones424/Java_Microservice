@@ -1,9 +1,9 @@
-package controller;
+package springbooth2.demo.controller;
 
-import entity.Employee;
+import springbooth2.demo.entity.Employee;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-import service.EmployeeService;
+import springbooth2.demo.service.EmployeeService;
 
 import java.util.List;
 

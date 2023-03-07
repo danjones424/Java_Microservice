@@ -1,7 +1,7 @@
-package service;
+package springbooth2.demo.service;
 
-import dao.EmployeeRepository;
-import entity.Employee;
+import springbooth2.demo.dao.EmployeeRepository;
+import springbooth2.demo.entity.Employee;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
